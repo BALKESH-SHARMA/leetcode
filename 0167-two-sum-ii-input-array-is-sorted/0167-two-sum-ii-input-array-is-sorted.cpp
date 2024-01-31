@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& num, int t) {
+        if(num.size()<2)return {};
         int i=0,j=num.size()-1;
         while(i<j){
             int sum=num[i]+num[j];
