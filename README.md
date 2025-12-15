@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0029-divide-two-integers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
@@ -33,4 +34,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
