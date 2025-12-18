@@ -45,9 +45,19 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
