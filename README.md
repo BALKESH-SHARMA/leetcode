@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search Tree
 |  |
@@ -64,10 +66,12 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 <!---LeetCode Topics End-->
