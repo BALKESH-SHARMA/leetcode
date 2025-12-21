@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
@@ -81,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0226-invert-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
