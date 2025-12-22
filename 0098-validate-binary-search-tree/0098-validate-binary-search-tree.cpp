@@ -13,11 +13,11 @@ class Solution {
 public:
     vector<int> numbers;
     void inorder(TreeNode* root){
-        if(root==nullptr){
+        if(root==NULL){
             return;
         }
         inorder(root->left);
-        numbers.push_back(root->val);//inserts the element in array
+        numbers.push_back(root->val);
         inorder(root->right);
     }
 
@@ -25,9 +25,9 @@ public:
         inorder(root);
         for(int i=0;i<numbers.size()-1;i++){
             if(numbers[i+1]<=numbers[i]){
-                return false;//if array is not strictly increasing
+                return false;
             }
         }
-        return true; //if array is strictly increasing   
+        return true;  
     }
 };
