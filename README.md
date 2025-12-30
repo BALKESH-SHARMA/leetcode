@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
