@@ -1,24 +1,40 @@
 class Solution {
 public:
-    void dfs(vector<vector<char>>& grid,int row,int col,vector<vector<bool>>& vis){
-        if(col<0 || col>=grid[0].size() || row<0 || row>=grid.size() || vis[row][col] || grid[row][col]=='0') return;
-        vis[row][col]=true;
-        dfs(grid,row,col+1,vis);
-        dfs(grid,row,col-1,vis);
-        dfs(grid,row+1,col,vis);
-        dfs(grid,row-1,col,vis); 
-    }
     int numIslands(vector<vector<char>>& grid) {
-        vector<vector<bool>>vis(grid.size(),vector<bool>(grid[0].size(),false));
-        int ans=0;
-        for(int i=0;i<grid.size();i++){
-            for(int j=0;j<grid[0].size();j++){
-                if(!vis[i][j] && grid[i][j]=='1'){
-                    dfs(grid,i,j,vis);
-                    ans++;
-                }    
+        int n = grid.size();
+        int m = grid[0].size();
+        int islands = 0;
+
+        vector<pair<int,int>> dirs = {{1,0},{-1,0},{0,1},{0,-1}};
+
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(grid[i][j] == '1') {
+                    islands++;
+                    bfs(grid, i, j, dirs);
+                }
             }
         }
-        return ans;
+        return islands;
+    }
+
+    void bfs(vector<vector<char>>& grid,int r, int c,vector<pair<int,int>>& dirs) {
+        queue<pair<int,int>> q;
+        q.push({r, c});
+        grid[r][c] = '0';
+
+        while(!q.empty()) {
+            auto [x, y] = q.front();
+            q.pop();
+
+            for(auto [dx, dy] : dirs) {
+                int nx = x + dx;
+                int ny = y + dy;
+                if(nx >= 0 && ny >= 0 && nx < grid.size() && ny < grid[0].size() && grid[nx][ny] == '1') {
+                    grid[nx][ny] = '0';
+                    q.push({nx, ny});
+                }
+            }
+        }
     }
 };
