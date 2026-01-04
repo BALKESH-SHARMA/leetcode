@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
