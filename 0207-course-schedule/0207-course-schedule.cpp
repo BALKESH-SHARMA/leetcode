@@ -4,11 +4,11 @@ public:
         int n = p.size();
         vector<vector<int>> adj(numCourses);
         for(int i=0;i<n;i++){
-            adj[p[i][1]].push_back(p[i][0]);
+            adj[p[i][0]].push_back(p[i][1]);
         }
         vector<int>indeg(numCourses,0);
         for(int i=0;i<n;i++){
-            indeg[p[i][0]]++;
+            indeg[p[i][1]]++;
         }
         queue<int>q;
         for(int i=0;i<numCourses;i++){
