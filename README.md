@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
+| [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0994-rotting-oranges) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0207-course-schedule](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -166,4 +169,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
