@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Bit Manipulation
 |  |
@@ -98,12 +100,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
@@ -167,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -177,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
