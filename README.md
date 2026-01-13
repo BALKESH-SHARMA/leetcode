@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/BALKESH-SHARMA/leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0997-find-the-town-judge) |
@@ -183,9 +187,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/BALKESH-SHARMA/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
