@@ -24,11 +24,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0062-unique-paths) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/BALKESH-SHARMA/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -196,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0743-network-delay-time](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BALKESH-SHARMA/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
